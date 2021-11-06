@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ktwl215.github.io/test/</loc>
+    <lastmod>2021-11-06T12:28:59+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://ktwl215.github.io/test/posts/</loc>
+    <lastmod>2021-11-06T12:28:59+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ktwl215.github.io/test/posts/test/</loc>
+    <lastmod>2021-11-06T12:28:59+09:00</lastmod>
+  </url><url>
+    <loc>https://ktwl215.github.io/test/categories/</loc>
+  </url><url>
+    <loc>https://ktwl215.github.io/test/tags/</loc>
   </url>
 </urlset>
